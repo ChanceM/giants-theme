@@ -2,4 +2,4 @@
 San Francisco Giants Theme For VS Code
 
 # Example
-![Theme Sample](images/Sample.png)
+![Theme Sample](https://github.com/ChanceM/giants-theme/raw/main/images/Sample.png)
