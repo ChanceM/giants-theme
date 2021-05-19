@@ -1,0 +1,33 @@
+{
+  "name": "giants-theme",
+  "version": "0.1.0",
+  "publisher": "chancem",
+  "displayName": "Giants Theme",
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "keywords": [
+    "San Francisco",
+    "Giants",
+    "baseball",
+    "world series"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Giants Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/giants-theme-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#FA4616",
+    "theme": "dark"
+  },
+  "description": "VS Code theme based on the SF Giants",
+  "license": "MIT"
+}
